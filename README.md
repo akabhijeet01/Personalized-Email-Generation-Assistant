@@ -1,5 +1,5 @@
 # I-M_BESIDE_YOU_ASSIGNMENT
-\n Name - Abhijeet Kumar
-\n Enrollment - 23324001
-\n Branch - BS Physics
-\n College- Indian Institute of Technology, Roorkee
+Name - Abhijeet Kumar<br>
+Enrollment - 23324001<br>
+Branch - BS Physics<br>
+College- Indian Institute of Technology, Roorkee
