@@ -1,4 +1,4 @@
-# I-M_BESIDE_YOU_ASSIGNMENT
+# Personalized email Generation Assistant
 Name - Abhijeet Kumar<br>
 Enrollment - 23324001<br>
 Branch - BS Physics<br>
